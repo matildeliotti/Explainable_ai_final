@@ -19,12 +19,16 @@ To run these notebooks, you will need Python 3.8+ and Jupyter installed on your 
    ```
 
 2. install the dependencies:
+   ```bash
    pip install pandas scikit-learn shap dice-ml matplotlib
+   ```
 
 ## Usage guide
 1. Open your terminal or command prompt and paste:
+   ```bash
    jupyter notebook
+   ```
 
-2. To evaluate SHAP, open shap_in_nb.ipynb file and run the cells.
+3. To evaluate SHAP, open `shap_in_nb.ipynb` file and run the cells.
    
-3. To evaluate Counterfactuals, open counter-ex.ipynb file and run the cells.
+4. To evaluate Counterfactuals, open `counter-ex.ipynb` file and run the cells.
