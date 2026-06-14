@@ -14,5 +14,5 @@ To run these notebooks, you will need Python 3.8+ and Jupyter installed on your 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [INSERT YOUR GITHUB REPOSITORY URL HERE]
-   cd [INSERT YOUR REPOSITORY NAME HERE]
+   git clone https://github.com/matildeliotti/Explainable_ai_final/tree/main
+   cd Explainable_ai_final
